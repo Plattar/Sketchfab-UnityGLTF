@@ -6,7 +6,7 @@ namespace GLTF.Schema
 {
 	public class ExtTextureTransformExtensionFactory : ExtensionFactory
 	{
-		public const string EXTENSION_NAME = "EXT_texture_transform";
+		public const string EXTENSION_NAME = "KHR_TEXTURE_TRANSFORM";
 		public const string OFFSET = "offset";
 		public const string SCALE = "scale";
 		public const string TEXCOORD = "texCoord";
